@@ -21,7 +21,7 @@ public class Test_final {
 		System.out.println();
 		System.out.println();
 		System.out.println();
-		System.out.println();
+		System.out.println("");
 		System.out.println();
 		System.out.println();
 		System.out.println();
